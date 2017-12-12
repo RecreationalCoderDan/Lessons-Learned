@@ -1,1 +1,7 @@
-##ThinsLearned 1.Arrays2.Loops3.Functions4.Commands5.Git
+
+##ThinsLearned 
+1.Arrays
+2.Loops
+3.Functions
+4.Commands
+5.Git

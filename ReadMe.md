@@ -1,7 +1,6 @@
+<h3> Things I have Learned At Bloc </h3>
 
-##ThinsLearned 
-1.Arrays
-2.Loops
-3.Functions
-4.Commands
-5.Git
+1.Commands
+2.HTML
+3.CSS
+4.Javascript basics

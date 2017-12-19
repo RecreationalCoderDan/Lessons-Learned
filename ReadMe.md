@@ -1,6 +1,7 @@
-<h3> Things I have Learned At Bloc </h3>
+# Things I Have Learned At Bloc 
 
-1.Commands
-2.HTML
-3.CSS
-4.Javascript basics
+1. Commands
+2. Git / Github
+3. Javascript Basics
+4. Html
+5. Css
